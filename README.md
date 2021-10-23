@@ -17,7 +17,7 @@ A consumer will reach their fitness goals more quickly when they track their wor
 
 <img src="public/img/FirstPage.png" alt="Workout-Tracker"></img>
 
-<img src="./public/img/chart.png" alt="Chart"></img>
+<img src="./public/img/Chart.png" alt="Chart"></img>
 
 ![](public/img/Workout-Tracker.gif)
 
